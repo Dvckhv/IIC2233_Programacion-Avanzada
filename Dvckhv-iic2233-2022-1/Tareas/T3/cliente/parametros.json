@@ -1,0 +1,14 @@
+{
+    "HOST" : "localhost",
+    "PORT" : 47365,
+    "RUTA_FONDO": ["Sprites", "Logos", "fondo.png"],
+    "RUTA_LOGO": ["Sprites", "Logos", "logo.png"],
+    "RUTA_DADO": ["Sprites", "Logos", "dado.png"],
+    "RUTA_ESTRELLA": ["Sprites", "Juego", "estrella.png"],
+    "RUTA_TABLERO": ["Sprites", "Juego", "tablero.png"],
+    "RUTA_FICHA_SIMPLE": ["Sprites","Fichas", "Simples","ficha-"],
+    "RUTA_FICHA_DOBLE": ["Sprites","Fichas", "Dobles","fichas-"],
+    "MINIMO_JUGADORES" : 2,
+    "MAXIMO_JUGADORES" : 4,
+    "UBICACION_ESTRELLAS" :[[240,80],[80,320],[320,240],[160,320]]
+}
